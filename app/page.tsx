@@ -46,7 +46,7 @@ export default function HomePage() {
               BERLIN
             </span>
             <h1 className="text-5xl font-semibold leading-[0.95] tracking-tight sm:text-6xl lg:text-8xl">
-              Premium Projektentwicklung für anspruchsvolle Architektur.
+              Projektentwicklung für anspruchsvolle Architektur.
             </h1>
             <p className="max-w-2xl text-lg leading-relaxed text-neutral-300 sm:text-xl">
               Baureform GmbH verbindet Planung, Kalkulation und Bauausführung zu einer klaren,
